@@ -19,6 +19,12 @@ Practiced using GitHub by creating my first repository
 
 
 
+### Files Used
+F22 - Github Setup Instructions.pdf
+
+
+
+
 ### How to run the program
 ```text
 Hello_World/
@@ -27,8 +33,7 @@ Hello_World/
     │── pgmname1.R
     │── filename1.csv
     │── examples.html
+...
 
 
 
-### Files Used
-F22 - Github Setup Instructions.pdf
