@@ -20,9 +20,9 @@ Practiced using GitHub by creating my first repository
 
 
 ### Files Used
-F22 - Github Setup Instructions.pdf
-Introduction on how to create first GitHub repository
-File obtained from class
+F22 - Github Setup Instructions.pdf  
+Introduction on how to create first GitHub repository  
+File obtained from class  
 
 
 
