@@ -7,14 +7,14 @@ Practicing a branch
 - ## [Files used](#files-used)
 
 ### Project Title
-
+Hello World
 
 
 
 
 
 ### Description
-
+Practiced using GitHub by creating my first repository
 
 
 
